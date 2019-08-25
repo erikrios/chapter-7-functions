@@ -1,0 +1,1 @@
+fun saysMyNames(name: String): String = "Your name is $name"
